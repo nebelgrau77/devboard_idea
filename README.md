@@ -22,3 +22,14 @@ Such board:
 * has low power modes, e.g. LPUART
 
 
+
+
+BOM:
+* 1 x MCU
+* 1 x NeoPixel
+* 1 x LED
+* 2 x button switch
+* 1 x USB Type-C
+* 1 x PDM microphone
+* 1 x IMU sensor 
+

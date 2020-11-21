@@ -9,6 +9,7 @@ A pretty nice devboard would be this:
 * NeoPixel for user communication, e.g. green light for "yes", red for "no", etc.
 * simple LED for blinking
 * serial over USB
+* DFU bootloader
 * main interfaces printed by their pins like on ItsyBitsy
 
 Such board:
@@ -17,6 +18,7 @@ Such board:
   * with STM32 HAL, 
   * Arduino core (STMDuino)
   * Rust
-  * possibly MicroPython/Circuitpython
+  * possibly MicroPython/CircuitPython
+* has low power modes, e.g. LPUART
 
 

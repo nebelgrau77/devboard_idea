@@ -21,7 +21,7 @@ Such board:
   * possibly MicroPython/CircuitPython
 * has low power modes, e.g. LPUART
 
-
+![SMT32L4 small packages](data/small_package_STM32L4.png)
 
 
 BOM:

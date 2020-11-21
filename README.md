@@ -26,10 +26,12 @@ Such board:
 
 BOM:
 * 1 x MCU
-* 1 x NeoPixel
-* 1 x LED
+* 1 x Xtal (8 MHz? 32kHz? check Nucleo32 L4)
+* 1 x NeoPixel APA102 (SPI)
+* 1 x LED (power/uploading/general LED)
 * 2 x button switch
 * 1 x USB Type-C
-* 1 x PDM microphone
-* 1 x IMU sensor 
+* 1 x PDM microphone (STM MP34DT06J)
+* 1 x IMU sensor (LIS3DH/LSM6DS3/LSM9DS1)
+* 1 x Flash memory (2MB QSPI)
 

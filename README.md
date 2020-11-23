@@ -13,6 +13,6 @@ Main characteristics:
 * microphone, IMU, RGB LED
 
 [Detailed description](detailed_description.md)
-
 [Bill Of Materials](BOM.md)
+[Notes](notes.md)
 

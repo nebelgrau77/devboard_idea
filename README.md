@@ -1,4 +1,4 @@
-### Devboard idea - Overview
+﻿### Devboard idea - Overview
 
 _This is just a draft of an idea. I don't know anything about PCB design, but I'm trying to gather the ideas, best practices from the boards I own, etc._
 
@@ -15,4 +15,5 @@ Main characteristics:
 [Detailed description](detailed_description.md)
 [Bill Of Materials](BOM.md)
 [Notes](notes.md)
+[To do](todo.md)
 

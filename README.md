@@ -11,6 +11,8 @@ Main characteristics:
   * possibly MicroPython/CircuitPython
 * has low power modes, e.g. LPUART
 * microphone, IMU, RGB LED
+* temperature/humidity sensor [optional]
+* pressure sensor [optional]
 
 [Detailed description](detailed_description.md)
 

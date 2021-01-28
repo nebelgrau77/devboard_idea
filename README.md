@@ -4,6 +4,7 @@ _This is just a draft of an idea. I don't know anything about PCB design, but I'
 
 Main characteristics:
 * fast enough for both motion and sound-based TinyML applications, 
+* breadboard friendly
 * can be programmed with:
   * with STM32 HAL, 
   * Arduino core (STMDuino)
@@ -13,6 +14,7 @@ Main characteristics:
 * microphone, IMU, RGB LED
 * temperature/humidity sensor [optional]
 * pressure sensor [optional]
+* battery powered (LiPo or coincell)
 
 [Detailed description](detailed_description.md)
 
